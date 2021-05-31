@@ -2,3 +2,4 @@ Gitの練習
 変更１
 .git add
 .git commit
+.git rm
